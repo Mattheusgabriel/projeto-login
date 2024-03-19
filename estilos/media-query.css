@@ -20,6 +20,14 @@
         float: right;
         width: 70%;
     }
+
+    #formulário > h1 {
+        font-size: 2.5em;
+    }
+
+    #formulário > p {
+        font-size: 1em;
+    }
     
 }
 
@@ -34,9 +42,27 @@
     }
     
     #login > #imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
+
+    #login > #formulário{
+        float: left;
+        width: 50%;
+    }
+
+    #formulário > h1 {
+        font-size: 3em;
+    }
+
+    #formulário > p {
+        font-size: 1.2em;
+    }
+
 }
+
+    
+
+
 
